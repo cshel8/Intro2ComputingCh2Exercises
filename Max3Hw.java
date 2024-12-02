@@ -7,6 +7,6 @@ public class Max3Hw {
     }
     public static void main(String[] args) {
         System.out.println("The maximum (int) is: " + max3(15, 4, 8));
-        System.out.println("The maxium (double) is: " + max3(15.8, 4.3, 8.6));
+        System.out.println("The maximum (double) is: " + max3(15.8, 4.3, 8.6));
     }
 }
